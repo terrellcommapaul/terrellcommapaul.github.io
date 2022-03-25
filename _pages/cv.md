@@ -16,15 +16,22 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2018 - Present: IT Support Specialist II
+  * College of Media & Communication, Texas Tech University
+  * Duties include: Hardware/Software/Maintenance support for hundreds of computers in teaching labs; Planning for computer lab configuration and technology purchasing; Technical support for Faculty & Staff technology; Advanced knowledge of speciality software used in academic environments (SPSS, R-Studio, Adobe Suite, etc.); Management of student IT technicians; Advise on new or remodeled facilities; etc.
+  * Supervisor: Ian Wilkinson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* December 2015 - March 2018: Broadcast Television News Producer
+  * Raycom Media (KWES)
+  * Duties included: Coordination with News Director on short & long term coverage plans; Reporter management; Content curation; Script writing, editing, & fact-checking; Video & audio editing; Live production management; etc.
+
+* December 2014 - March 2018: Freelance Technical Consultant
+  * Self-employed
+  * Duties included: On-call remote and in-person technical support; Software Installation & Troubleshooting; Hardware Installation & Troubleshooting; Secure file backup & management; Cloud computing installation; Hardware & software recommendations; Technology purchasing & setup; etc.
+
+* Fall 2012 - Fall 2014: Student Supervisor & Knowledge Management
+  * IT Help Central, Texas Tech University
+  * Duties included: Phone-based IT Support; Oversight for shifts of student analysts;  Managed incoming traffic for call center; Reviewed technical documents and procedures; Defined and documented technical best practices; Established workflows for resolving common or known issues; etc.  
 
 Skills
 ======
