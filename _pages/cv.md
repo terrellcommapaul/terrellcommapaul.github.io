@@ -29,20 +29,22 @@ Work experience
   * Self-employed
   * Duties included: On-call remote and in-person technical support; Software Installation & Troubleshooting; Hardware Installation & Troubleshooting; Secure file backup & management; Cloud computing installation; Hardware & software recommendations; Technology purchasing & setup; etc.
 
-* Fall 2012 - Fall 2014: Student Supervisor & Knowledge Management
+* Fall 2012 - December 2014: Student Supervisor & Knowledge Management
   * IT Help Central, Texas Tech University
   * Duties included: Phone-based IT Support; Oversight for shifts of student analysts;  Managed incoming traffic for call center; Reviewed technical documents and procedures; Defined and documented technical best practices; Established workflows for resolving common or known issues; etc.  
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technology
+  * Hardware
+  * Software
+  * Troubleshooting
+* Communication
+  * Verbal
+  * Virtual
+  * Written
 
-Publications
+```Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,7 +56,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
+Teachings
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -63,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+```
