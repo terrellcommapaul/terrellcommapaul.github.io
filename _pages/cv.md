@@ -20,6 +20,11 @@ Publications
    {% include archive-single-cv.html %}
  {% endfor %}</ul>
 
+Writing Ecxamples
+======
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Work experience
 ======
