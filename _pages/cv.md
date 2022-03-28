@@ -20,7 +20,7 @@ Publications
    {% include archive-single-cv.html %}
  {% endfor %}</ul>
 
-Writing Ecxamples
+Writing Examples
 ======
 {% for post in site.portfolio %}
   {% include archive-single.html %}
