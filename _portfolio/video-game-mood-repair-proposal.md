@@ -1,6 +1,6 @@
 ---
 title: "Video Game & Mood Repair Proposal"
-excerpt: "This proposal aims to cement published research on the effect of computer game difficulty on noxious moods by establishing a backing in the The Limited Capacity Model of Motivated Mediated Message Processing (LC4MP).  The purpose of this study is to further establish a link between people in noxious mood states and the difficulty of video games..."""
+excerpt: "This proposal aims to cement published research on the effect of computer game difficulty on noxious moods by establishing a backing in the The Limited Capacity Model of Motivated Mediated Message Processing (LC4MP).  The purpose of this study is to further establish a link between people in noxious mood states and the difficulty of video games..."
 collection: portfolio
 date: 2019-12-09
 permalink: '/portfolio/video-game-mood-repair-proposal'
