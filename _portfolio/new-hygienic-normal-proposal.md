@@ -1,6 +1,6 @@
 ---
 title: "New Hygienic Normal Proposal"
-excerpt: "In more modern scholarly work, the theory of identification is conceptualized in communication and media studies as a process where the viewer or audience member or user experiences an increasing loss of self-awareness and is temporarily replaced by, "..heightened emotional and cognitive connections with a character" (Cohen, 2001, pg251). It is believed that identification in media is something that is put in place purposely by the creator of the message with the intention of having a lasting impact on the audience..."
+excerpt: "In more modern scholarly work, the theory of identification is conceptualized in communication and media studies as a process where the viewer or audience member or user experiences an increasing loss of self-awareness and is temporarily replaced by..."
 collection: portfolio
 date: 2020-06-05
 permalink: '/portfolio/new-hygienic-normal-proposal'
